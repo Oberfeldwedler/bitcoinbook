@@ -1,4 +1,6 @@
 = Mastering Bitcoin
+:toc: 
+:stem: latexmath
 
 include::preface.asciidoc[]
 
